@@ -2,17 +2,13 @@
 
 ![Screenshot of the website](assets/images/screenshot.png?raw=true)
 
-A minisite for book and article highlights: [highlights.melanie-richards.com](http://highlights.melanie-richards.com), built with Eleventy. Highlights and covers are copyright to their respective authors. [Let’s be book friends](https://www.goodreads.com/melanierichards)
+A for of a minisite for book and article highlights, [highlights.melanie-richards.com](http://highlights.melanie-richards.com). Highlights and covers are copyright to their respective authors.
 
 ## Substantive/breaking changes
 
 ### Branch rename
 
 The `master` branch was renamed to `main` in 2020. Folks who have forked the repo can [update their local clones using these instructions](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx).
-
-### Migration from Jekyll to Eleventy
-
-The primary purpose of this repo is to deploy [highlights.melanie-richards.com](http://highlights.melanie-richards.com), though others may feel free to remix the code for their own highlights sites. As of late 2020, according to my current development practices, this site has been converted from Jekyll to Eleventy. If you'd still prefer to use Jekyll instead, you may access [prior releases](https://github.com/melanierichards/highlights/releases) or branch off of [`jekyll`](https://github.com/melanierichards/highlights/tree/jekyll).
 
 ## To build
 
