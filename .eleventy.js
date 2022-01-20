@@ -13,6 +13,11 @@ module.exports = function(eleventyConfig) {
   // Insert SVG contents
   eleventyConfig.addPlugin(svgContents);
 
+  eleventyConfig.addNunjucksFilter('format_date', function(time) {
+    var options = { year: 'numeric', month: 'long', day: 'numeric' };
+    return time.toLocaleDateString("en-US", options);
+  });
+
   return {
 
     /* Change value if you'd like to deploy to subdirectory, e.g. "/highlights/"
