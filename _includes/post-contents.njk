@@ -45,7 +45,7 @@
         {% set highlight_perma = highlight.text | lower | urlencode | replace("%20", "+") | truncate(15, true, "") %}
         <li class="highlight" id="{{ highlight_perma }}">
           {% for line in highlight.text.split("\n") %}
-            <p class="highlight__text">line</p>
+            <p class="highlight__text">{{line}}</p>
           {% endfor %}
 
           {% if highlight.attribution %}<cite class="highlight__attribution"> — {{ highlight.attribution}}</cite>{% endif %}
