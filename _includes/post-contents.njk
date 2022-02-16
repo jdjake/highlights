@@ -44,7 +44,7 @@
       {% for highlight in books[current_book] %}
         {% set highlight_perma = highlight.text | lower | urlencode | replace("%20", "+") | truncate(15, true, "") %}
         <li class="highlight" id="{{ highlight_perma }}">
-          <p class="highlight__text">{{ highlight.text }}</p>
+          <pre class="highlight__text">{{ highlight.text }}</pre>
           {% if highlight.attribution %}<cite class="highlight__attribution"> — {{ highlight.attribution}}</cite>{% endif %}
           <div class="highlight__meta">
             <span class="highlight__location">{{ highlight.page }}</span>
