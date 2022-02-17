@@ -20,7 +20,7 @@
 
 - text: It's always a challenge to describe the person you know best in the world.
 
-- text: But my own code serves me well. If my code starts failing -- a code can fail a man as well as a man can fail a code -- then I will have to submit to a new one. Which may well be communism.
+- text: But my own code serves me well. If my code starts failing -- a code can fail a man as well as a man can fail a code -- then I will have to submit to a new one. #Which may well be communism.
 
 - text: There are no non corrupt systems anyway. And <em>moralism</em> is the most corrupt of them all anyway.
 
@@ -50,9 +50,11 @@ Perception: \"People are beautiful. Statuesque. Parodies and tragedies of themse
 
 - text: Mercenary tattoos -- for all the boys looking for an adventure -- a blood splatter on the seas.
 
-- text: "The sailor's soul would use it to fly back home if they should die abroad. This is a sort of... contraption. To be reeled back in by. The <em>silver cord</em>, as they would call it.
+- text: "This is an Oranjese Map of the Waterways -- a sailor's tattoo worn by wayfarers of the Dolorian century, over 300 years ago. The sailors would mark their bodies to map their travels.
 
-    I've spoken to him. For now the soul is fastened inside his corpse.
+The sailor's soul would use it to fly back home if they should die abroad. This is a sort of... contraption. To be reeled back in by. The <em>silver cord</em>, as they would call it.
+
+    \"I've spoken to him. For now the soul is fastened inside his corpse\".
 
 That is precisely what the sailors feared when they drew these maps. A fear of drowning -- within one's own corpse."
 
@@ -82,9 +84,9 @@ That is precisely what the sailors feared when they drew these maps. A fear of d
 
 - text: '"RACISTS ARE GENERALLY NOT VERY GOOD EXAMPLES OF THEIR RACE". He gestures to the lorryman down the street. "I AM NOT LIKE THEM. I AM CRANIOMETRIC PERFECTION. I HAVE TAKEN THE TROUBLE TO PERMENANTLY DRAW A PHRENOLOGICAL GRID ON MY SKULL AND FEATURES. THIS SHOULD DISPEL ANY DOUBT.".'
 
-- text: Everything disappears. You are draped in silence like a drowning man staring into his puny little headspace. And then the pressure changes. It feels like flying on an aerostatic, or when your ears pop, or like a subtle difference in the atmosphere, a weather change hanging in the air.
+#- text: Everything disappears. You are draped in silence like a drowning man staring into his puny little headspace. And then the pressure changes. It feels like flying on an aerostatic, or when your ears pop, or like a subtle difference in the atmosphere, a weather change hanging in the air.
 
-- text: The people who made this world intended it to be better for you, but they failed. It is easier to live in their failure with this by your side (Tap on the tape recorder).
+- text: The people who made this world intended it to be better for you, but they failed. It is easier to live in their failure with this by your side. # (Tap on the tape recorder).
 
 - text: "Free from self awareness. No deliberation, only execution. With his reel-to-reel mixer blasting the anthem of a future that will never come, the young man observes your moves for a second.
   
@@ -125,11 +127,13 @@ I NEED YOU. YOU CAN KEEP ME ON THIS EARTH. BE VIGILANT. I LOVE YOU."
 
 - text: "\"What's suspicious about pork and wheat?\" \"It's our only shit. We should make better use of not being animals -- or cereal grains -- ourselves. Having food is a means to an end. But the left never talks about the end, only the means. Caps are likewise suckers, constantly sleepless in worry.\"
 
-\"Their (The left and right) movement's only concern is producing enough pig and wheat for everyone -- the end goal of humanity. The original mistake was assuming that words have more being than bodies. That's what lead us astray, far from our true lives. But we may yet find a way back.\""
+\"Their movement's only concern is producing enough pig and wheat for everyone -- the end goal of humanity. The original mistake was assuming that words have more being than bodies. That's what lead us astray, far from our true lives. But we may yet find a way back.\""
 
-- text: You mentioned <em>true life</em>. What would that be like? "A life is true if it's free from fear and internal division among oneself. And others -- mankind has seeds of greatness in it. A germinal will come, a return to trueness. It will be hard core. Beats and bright lights will shatter falsehoods. Never impulses for the collective body. We are very much alike in basic structure. A hard enough beat would awaken everyone to a truer calling -- in unity! Hard core is utmost dedication. Thoughts from the spinal cord. It's a potent superlative as well. Maybe you're confused because you're being too specific about it? Try consulting with your spinal cord... like before, when you pulled those primal dance moves. I'm sure the world was glad to see them again after all that time."
+- text: "You mentioned <em>true life</em>. What would that be like?
 
-- text: What is all of this? The scent, the sound, the air? This world of matter and its pale antipode. The camera of her mind glides over the surface of the water. There is a term of endearment they coined for it. In the Dolorian century, when humanity was <em>high</em> on this world, discovering more and more of it -- these archipelagos included. Elysium. We used to think it was a sphere, but that is beginning to look less and less likely by the day. Between the big three scientific contributors, they're piercing together a dark grey corona. Pale covers 72% of the surface. There are gray flares and prominences, even arcs above entire isolas... The iamges are blurry, but if there was a sphere in there it certainly looks like it fractured a long time ago. They say there is a rarefied envelope of matter surrounding the darkened disc of our planet. Or, to speak more plainly, imagine vast swathes of land disrupted by nothingness. It's like the corwning of the world. It's insane. Very <em>disco</em>. You'd love it.
+\"A life is true if it's free from fear and internal division among oneself. And others -- mankind has seeds of greatness in it. A germinal will come, a return to trueness. It will be hard core. Beats and bright lights will shatter falsehoods. Never impulses for the collective body. We are very much alike in basic structure. A hard enough beat would awaken everyone to a truer calling -- in unity! Hard core is utmost dedication. Thoughts from the spinal cord. It's a potent superlative as well. Maybe you're confused because you're being too specific about it? Try consulting with your spinal cord... like before, when you pulled those primal dance moves. I'm sure the world was glad to see them again after all that time.\""
+
+- text: What is all of this? The scent, the sound, the air? This world of matter and its pale antipode. The camera of her mind glides over the surface of the water. There is a term of endearment they coined for it. In the Dolorian century, when humanity was <em>high</em> on this world, discovering more and more of it -- these archipelagos included. Elysium. We used to think it was a sphere, but that is beginning to look less and less likely by the day. Between the big three scientific contributors, they're piercing together a dark grey corona. Pale covers 72% of the surface. There are gray flares and prominences, even arcs above entire isolas... The images are blurry, but if there was a sphere in there it certainly looks like it fractured a long time ago. They say there is a rarefied envelope of matter surrounding the darkened disc of our planet. Or, to speak more plainly, imagine vast swathes of land disrupted by nothingness. It's like the corwning of the world. It's insane. Very <em>disco</em>. You'd love it.
 
 - text: "\"Detective Du Bois...\" He bows lightly. \"It was downright <em>tragic</em>. Now let's go\". To him, being a cop in the RCM was truly expressed in that performance."
 
@@ -145,7 +149,7 @@ I NEED YOU. YOU CAN KEEP ME ON THIS EARTH. BE VIGILANT. I LOVE YOU."
     \"Of course not. The only people who call themselves liberals are mouth-foaming reactionaries.\"
   \"Basically indistinguishable from fascists. You'd need an x-ray machine to tell the difference\""
 
-- text: Lynching? No. We're not an <em>operational</em> cell. We think of ourselves as more of an intellectual vanguard.
+# - text: Lynching? No. We're not an <em>operational</em> cell. We think of ourselves as more of an intellectual vanguard.
 
 - text: Are they being sarcastic? You feel like you're caught in some elaborate joke labyrinth, but it's impossible to see your way through. It's always that way. Beneath the crust of irony there's a molten sincerity that threatens to erupt forth... you may witness it yet.
 
@@ -172,27 +176,40 @@ I NEED YOU. YOU CAN KEEP ME ON THIS EARTH. BE VIGILANT. I LOVE YOU."
 
 \"It sounds like something happened and you don't want to acknowledge it.\"
   \"Let me make this 100% clear then, officer. I was not sexually assaulted.\" She tilts her head. \"Would I be as flippant if I had been?\"
+
 Empathy: You get the feeling she might be."
 
 
 
 
 - text: "Volition: Soft, light brown eyes look back at you, directly into the space between your eye sockets. You see the smoke rise from between her painted red lips. She's beautiful... I have bad news for you. You know these guys?
+
 Suggestion: Who, me?
+
 Authority: Yes, you. He's talking about you, you grovelling sycophant.
+
 Volition: You too.
+
 Authority: Me? Get outta here, I'm solid.
+
 Volition: These guys are compromised. She's got them singing along to her tune. The little beeps and bloops you trust for info -- you can't trust them anymore. I'm sorry I didn't catch it sooner. It takes conscious effort on your part.
 
 You: Which ones exactly are affected?
 
 Volition: There's no way of knowing. At the moment I'm afraid it's best to assume... <em>all</em> of them.
+
 Electrochemistry: Bullshit, man. I ain't <em>compromised</em>.
+
 Volition: <em>Especially</em> that guy. That guy's the most compromised one in here.
+
 Electrochemistry: No fucking way, man, I just want a drag of that sweet Menthol ziggie.
+
 Volition: Really? Quick, tell me what's under her jumpsuit?
+
 Electrochemistry: GLORY. TRUTH. SOFTNESS. PROTECT HER. SHE WANTS YOU.
+
 Volition: I take it back. He's got it pretty bad, but this <em>next guy</em> is on another level entirely...
+
 Suggestion: She likes you. The Crownhead is a boring condom. He's jealous. This is human nature.
 
 You: How did this happen?
@@ -214,14 +231,19 @@ Volition: It's better to know you are being played than to be played without kno
 You: What is her <em>plan</em>.
 
 Volition: You can't draw a sound conclusion. The one who usually does says...
+
 Logic: She may want to control the information rollout -- not to become a suspect. She may have a past she's escaping, unrelated to this case. You doubt it's something truly insidious.
+
 Volition: See? It's oddly moderate. Probably compromised.
 
 You: Does that mean she's been lying to me?
 
 Volition: I think it's safe to assume: yes. Mr. Thesbian here hasn't been speaking up. If he were, I suspect there would be paeans to her truthfulness. Like this...
+
 Drama: She isth a laedy most fair and juste!
+
 Volition: In his defence -- to reduce him to such inadequecy, she probably had to employ half-truths more often than outright lies.
+
 Rhetoric: That is correct. And ommisions too.
 
 You: Can I trust that guy?
@@ -231,6 +253,7 @@ Volition: A little. They're all still of limited use, interpreting things to the
 You: Can I trust any of them <em>ever</em> again.
 
 Volition: Don't be melodramatic. You can trust them. Just not with <em>her</em>.
+
 Perception: A light green speck, and imperfection, on the outer rim of her right iris. It sparkles...
 
 You: I've been talking to myself long enough. Let's get back to it.
@@ -244,13 +267,17 @@ The silence broken, she exhales a cloud of smoke and says... \"God, no!\"
 Later...
 
 \"He told me --- love did him in.\"
+
   \"That's not funny officer.\"
+
 Composure: Her voice is like a slash through the air. Her shoulders tense up.
+
 Volition: There. She momentarily lost control over Straight-Back-Guy! It appears she feels <em>guilty</em>.
 
 Later...
 
 Empathy: You sense a little hesitation there -- or maybe even fear? The stress was on the wrong syllable.
+
 Drama: Welcome to the wake-up club, brother.
 
 Volition: (About Kim) This bastion of willpower -- his watchmen have been sleeping too, you can be absolutely certain now. But he's coming around."
@@ -283,11 +310,15 @@ Volition: (About Kim) This bastion of willpower -- his watchmen have been sleepi
   \"When are you gonna get it through your dumb head?\" He scoffs. \"I already <em>am</em>., I just wasn't sure you were\"."
 
 - text: "I'm done thinking about this [Finish Thought].
-  Volition: That's right. <em>Finish Thought</em>. Just finish it and conveniently go on.
-  Logic: Don't listen to this guy. The theory was solid. He's just jealous. Move on, it's no use harassing her further."
+
+Volition: That's right. <em>Finish Thought</em>. Just finish it and conveniently go on.
+
+Logic: Don't listen to this guy. The theory was solid. He's just jealous. Move on, it's no use harassing her further."
 
 - text: "Horrific Necktie: This is it. I'm gonna hit the ground and burn away now. Most of the people in this yard are gonna die -- if not all. Probably you too It's a COMPLETE DISASTER.
+
 Volition: No Not a disaster. Weave this into the story of you. Walk out of it's <em>ruins</em>. Save those who can be saved -- <em>I'm</em> on your side.
+
 Espirit de Corps: And the lieutenant too. And the men behind your back, drawing their weapons... you can live. You can get out of this."
 
 - text: "Suggestion: Brother, you should put me in front of a firing squad. I have no words for how much I failed you."
@@ -303,7 +334,7 @@ Espirit de Corps: And the lieutenant too. And the men behind your back, drawing 
 - text: "Traitors. It's better alone. I watched the people of this city turn the lights back on, more and more each year. Ruins, glimmering in the dark, like a fucking merry-go-round.
 The material base for an uprising has eroded, the working class has betrayed mankind and themselves... There is no flame to fan. There is nothing left -- of the world, of our dreams."
 
-- text: "\"May the 13th, '08, 44 years ago,\" he looks north. The horizon was black with Coalition airships. Their petroleum rose to the sky and it looked like... like it <em>formed</em> the clouds. Storm clouds. When they started shelling it was... dark magic. The combined might of international capital, all at once - all the greed and terror in the world - tore in Revachol. It lifted streets from the ground and turned houses into ghosts. The mask of humanity fall from capital. It has to take it off to kill everyone — everything you love; all the hope and tenderness in the world. It has to take it off, just for one second. To do the deed. And then you see it. As it strangles and beats your friends to death... the sweetest, most courageous people in the world,\" he's silent for a second. \"You see the fear and power in its eyes. Then you <em>know</em>.\"
+- text: "\"May the 13th, '08, 44 years ago,\" he looks north. The horizon was black with Coalition airships. Their petroleum rose to the sky and it looked like... like it <em>formed</em> the clouds. Storm clouds. When they started shelling it was... dark magic. The combined might of international capital, all at once - all the greed and terror in the world - tore in Revachol. It lifted streets from the ground and turned houses into ghosts. The mask of humanity fell from capital. It has to take it off to kill everyone — everything you love; all the hope and tenderness in the world. It has to take it off, just for one second. To do the deed. And then you see it. As it strangles and beats your friends to death... the sweetest, most courageous people in the world,\" he's silent for a second. \"You see the fear and power in its eyes. Then you <em>know</em>.\"
     \"What?\"
   \"That the bourgeois are not human.\""
 
@@ -312,20 +343,33 @@ The material base for an uprising has eroded, the working class has betrayed man
 - text: He's anything but a loser. Although he would like to be seen as one. It's cooler that way.
 
 - text: "Under the evening sky the great district turns on its lights: A chessboard of wooden houses, 80,000 living souls inside. Firetraps as far as the eye can see -- from Main Street to Precinct 41 atop the motorway, to Boogie Street forking into the snowswept horizon...
+
 You close your eyes and hear the dogs bar. A lone woman sits by a factory window, dreaming of meteorite strikes. On Rue Saint-Gerome a square bullet slides into a square-shaped chamber. In Old South a man without eyelids smiles. Spring has come. It's time.
 
 Torson? Yes.
+
 Mclaine?
+
 Yes.
+
 Heidelstam?
+
 No.
+
 Vicquemare?
+
 Yes.
+
 Du Bois?
+
 Of course.
 
 \"Really?\" Nix Gottlieb looks up from the list. \"I hear he's unstable..\"
+
   \"You say that like it's a <em>bad</em> thing\", Captain Ptolemy Pryce gestures with a ball point pen. It's dim in the office and the curtains are drawn. \"Harry's our man, he'll pull through. When he does, he'll side with the people.\"
+
 \"Understood.\" Gottlieb returns to the list.
+
 \"Minot?\"
+
 \"Of course.\""
