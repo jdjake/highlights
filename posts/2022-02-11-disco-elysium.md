@@ -1,8 +1,8 @@
 ---
-title: The Yiddish Policemen's Union
-book: the-yiddish-policemens-union
-author: Michael Chabon
+title: Disco Elysium
+book: disco-elysium
+author: ZA/UM
 kindle: false
 spoilers: false
-date: 2022-02-28
+date: 2022-02-11
 ---
