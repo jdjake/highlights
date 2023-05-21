@@ -29,9 +29,7 @@ I've chosen to deploy my highlights to the root path of a subdomain, but others 
 
 | Command                    | Purpose                      |
 | -------------------------- | ---------------------------- |
-| npx @11ty/eleventy --serve | Serve project                |
-| gulp sass:watch            | Watch and build sass files   |
-| gulp minify-css            | Compress the output CSS file |
+| npm run start              | Serve project + watch Sass   |
 | netlify build              | Kick off a Netlify build locally. Useful for local validation w/ Netlify plugins. |
 
 ## Data syntax
@@ -45,9 +43,11 @@ author:
 kindle: true
 spoilers: false
 date: YYYY-MM-DD
+bookshop_id:
 ```
 
-Where "dash-separated" is also the file name for the `_data` file, JPG, and SVG.
+* Where "dash-separated" is also the file name for the `_data` file, JPG, and SVG.
+* `bookshop_id` is used for bookshop.org buy links. The base template uses my affiliate link structure; feel free to replace with your own or remove these buy links entirely (though it’s nice to support authors!).
 
 ### Each highlight
 
