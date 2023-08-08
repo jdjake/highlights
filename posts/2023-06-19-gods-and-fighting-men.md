@@ -1,5 +1,5 @@
 ---
-title: God's and Fighting Men
+title: Gods and Fighting Men
 book: gods-and-fighting-men
 author: Lady Gregory
 kindle: false
