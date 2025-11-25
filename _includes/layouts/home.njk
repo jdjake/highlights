@@ -12,6 +12,9 @@
       <a href="{{ post.url | url }}" class="book__image" data-bgSrc="{{ current_cover | url }}" title="{{ post.data.title }}">
         {{ current_svg | svgContents | safe }}
       </a>
+      <p style="width: 250px; text-align:center"><b>{{post.data.title}}</b></p>
+      <p style="width: 250px; text-align:center">{{post.data.author}}</p>
+      <p style="width: 250px; text-align:center"><i>{{ post.data.date | formatDate("MMMM dd, yyyy") }}</i></p>
     </li>
   {% endfor %}
 </ul>
